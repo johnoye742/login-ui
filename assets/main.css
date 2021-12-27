@@ -32,6 +32,7 @@ body {
     
     border-radius: 20px;
     box-shadow: 7px 5px 10em black, -7px 5px 10em black;
+    margin-bottom:1.8em;
 }
 @media screen and (max-width:680px) {
     .container {
